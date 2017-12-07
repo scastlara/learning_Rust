@@ -1,0 +1,1 @@
+{"rustc":13726346269570251780,"features":"[]","target":9026463146421887304,"profile":14528549471338536373,"deps":[["rand v0.3.18",10512702918999811513]],"local":{"MtimeBased":[[1512670244,592658300],"/home/scastillo/code/learningrust/guessing_game/target/debug/.fingerprint/guessing_game-179cc780133cf75d/dep-bin-guessing_game-179cc780133cf75d"]},"rustflags":[]}
